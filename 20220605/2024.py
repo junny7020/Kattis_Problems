@@ -1,6 +1,5 @@
 from turtle import pu
 
-
 puzzle = []
 row = []
 
@@ -12,7 +11,7 @@ move = int(input())
 
 if(move == 0):
     # move left
-    print(puzzle[0])
+    
 # elif(move == 1):
 #     move up
 # elif(move == 2):
